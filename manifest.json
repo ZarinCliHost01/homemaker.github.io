@@ -1,6 +1,6 @@
 {
-    "short_name": "M Anas",
-    "name": "Muhammad Anas",
+    "short_name": "Homemaker",
+    "name": "Homemaker.pk",
     "icons": [
       {
         "src": "/images/icons-192.png",
@@ -13,8 +13,8 @@
         "sizes": "512x512"
       }
     ],
-    "start_url": "/index.html",
-    "background_color": "#000000",
+    "start_url": "https://anas.zarin.solutions",
+    "background_color": "#ffffff00",
     "display": "standalone",
-    "theme_color": "#ff0000"
+    "theme_color": "#ffffff00"
   }
